@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//day_1
 void reverseArray(int arr[],int n){
     int temp;
     for(int i=0;i<n/2;i++){
