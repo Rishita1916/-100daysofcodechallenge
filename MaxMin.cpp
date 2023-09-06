@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//day_1
 void findMinAndMax(int arr[],int n){
     int min=arr[0];
     int max=arr[0];
