@@ -5,3 +5,4 @@ Welcome to my #100daysofcodechallenge github repository. I will be coding everyd
 cout<<"DAY 1 : DONE";
 cout<<"DAY 2 : DONE";
 cout<<"DAY 3 : DONE";
+cout<<"DAY 4 : DONE";
