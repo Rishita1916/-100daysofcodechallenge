@@ -8,3 +8,4 @@ cout<<"DAY 3 : DONE";
 cout<<"DAY 4 : DONE";
 cout<<"DAY 5 : DONE";
 cout<<"DAY 6 : DONE";
+cout<<"DAY 7 : DONE";
